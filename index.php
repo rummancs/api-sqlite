@@ -9,7 +9,7 @@
 <?php
 
 
-// users.php
+// ------ onece db is required, I can use it for all purpose. Date - ___
 require 'db.php';
 
 header("Content-Type: application/json");
